@@ -8,22 +8,20 @@
 
 ## Categories
 
-- [til](#til)
-  - [Categories](#categories)
-  - [docs](#docs)
-    - [Git](#git)
-    - [GitHub](#github)
+- [docs](#docs)
+  - [Git](#Git)
+  - [GitHub](#GitHub)
 
 ---
 
 ## docs
 
-- [test](https://github.com/masuonline/tildocs/test.md)
+- [test](https://github.com/masuonline/til/docs/test.md)
 
 ### Git
 
-- [test](https://github.com/masuonline/tildocs/Git/test.md)
+- [test](https://github.com/masuonline/til/docs/Git/test.md)
 
 ### GitHub
 
-- [test](https://github.com/masuonline/tildocs/GitHub/test.md)
+- [test](https://github.com/masuonline/til/docs/GitHub/test.md)
