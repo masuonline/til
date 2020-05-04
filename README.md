@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-3 TILs and counting...
+2 TILs and counting...
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## docs
 
-- [test](https://github.com/masuonline/til/blob/master/docs/test.md)
+- [README](https://github.com/masuonline/til/blob/master/docs/README.md)
 
 ### Git
 
