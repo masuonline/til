@@ -2,17 +2,22 @@
 
 > Today I Learned
 
-2 TILs and counting...
+3 TILs and counting...
 
 ---
 
 ## Categories
 
+- [Agile](#Agile)
 - [docs](#docs)
   - [Git](#Git)
   - [GitHub](#GitHub)
 
 ---
+
+## Agile
+
+- [scrum](https://github.com/masuonline/til/blob/master/Agile/scrum.md)
 
 ## docs
 
