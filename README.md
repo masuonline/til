@@ -16,12 +16,12 @@
 
 ## docs
 
-- [test](https://github.com/masuonline/til/docs/test.md)
+- [test](https://github.com/masuonline/til/blob/master/docs/test.md)
 
 ### Git
 
-- [test](https://github.com/masuonline/til/docs/Git/test.md)
+- [test](https://github.com/masuonline/til/blob/master/docs/Git/test.md)
 
 ### GitHub
 
-- [test](https://github.com/masuonline/til/docs/GitHub/test.md)
+- [test](https://github.com/masuonline/til/blob/master/docs/GitHub/test.md)

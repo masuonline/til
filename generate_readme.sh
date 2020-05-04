@@ -10,7 +10,7 @@ echo "---" >>README.md
 function file_echo() {
     find $1 -maxdepth 1 -type f -name "*.md" | sort | while read FILE; do
         local FILE2=$(echo "${FILE##*/}" | sed -e "s/\.md//")
-        local GITHUB_URL="https://github.com/masuonline/til/"
+        local GITHUB_URL="https://github.com/masuonline/til/blob/master/"
         echo "- [$FILE2]($GITHUB_URL${FILE##*./})" >>README.md
     done
 }
