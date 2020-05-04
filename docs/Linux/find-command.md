@@ -4,7 +4,9 @@
 
 除外は`-not -name pattern`オプションをつけると良い
 
-`find -type f -not -name '*jpg'`
+```bash
+find -type f -not -name '*jpg'
+```
 
 ## 参考
 
