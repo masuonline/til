@@ -2,31 +2,31 @@
 
 > Today I Learned
 
-3 TILs and counting...
+4 TILs and counting...
 
 ---
 
 ## Categories
 
-- [til](#til)
-  - [Categories](#categories)
-  - [docs](#docs)
-    - [Agile](#agile)
-    - [Git](#git)
-    - [GitHub](#github)
+- [docs](#docs)
+  - [Agile](#Agile)
+  - [CircleCI](#CircleCI)
+  - [Linux](#Linux)
 
 ---
 
 ## docs
 
+
 ### Agile
 
 - [scrum](https://github.com/masuonline/til/blob/master/docs/Agile/scrum.md)
 
-### Git
+### CircleCI
 
-- [test](https://github.com/masuonline/til/blob/master/docs/Git/test.md)
+- [github-readme-autogeneration](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-readme-autogeneration.md)
+- [github_ssh_authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github_ssh_authorization.md)
 
-### GitHub
+### Linux
 
-- [test](https://github.com/masuonline/til/blob/master/docs/GitHub/test.md)
+- [find-command](https://github.com/masuonline/til/blob/master/docs/Linux/find-command.md)
