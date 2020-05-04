@@ -20,7 +20,6 @@ function file_echo() {
 # }
 
 function folder_echo() {
-    #    find $1 -maxdepth 1 -type d | grep -e "[^.].*" | while read DIR; do
     find $1 -maxdepth 1 -type d | sort | grep -e "[^.].*" | while read DIR; do # ディレクトリをソートするように変更
         if test "$DIR" != "$1"; then
             local MD_FILE_LIST=$(find $DIR -type f -name "*.md")
@@ -32,8 +31,6 @@ function folder_echo() {
                 for i in $(seq 1 $2); do
                     HEADING+="#"
                 done
-            # else
-            #     echo "" >>README.md
             fi
             echo "" >>README.md
             echo "$HEADING ${DIR##*/}" >>README.md
@@ -52,7 +49,6 @@ function folder_echo() {
 
 # index作成関数
 function category_echo() {
-    #    find $1 -maxdepth 1 -type d | grep -e "[^.].*" | while read DIR; do
     find $1 -maxdepth 1 -type d | sort | grep -e "[^.].*" | while read DIR; do # ディレクトリをソートするように変更
         if test "$DIR" != "$1"; then
             local MD_FILE_LIST=$(find $DIR -type f -name "*.md")

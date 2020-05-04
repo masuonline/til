@@ -8,15 +8,16 @@
 
 ## Categories
 
-- [docs](#docs)
-  - [Agile](#Agile)
-  - [Git](#Git)
-  - [GitHub](#GitHub)
+- [til](#til)
+  - [Categories](#categories)
+  - [docs](#docs)
+    - [Agile](#agile)
+    - [Git](#git)
+    - [GitHub](#github)
 
 ---
 
 ## docs
-
 
 ### Agile
 
