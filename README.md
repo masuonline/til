@@ -21,7 +21,6 @@
 
 ## docs
 
-- [README](https://github.com/masuonline/til/blob/master/docs/README.md)
 
 ### Git
 
