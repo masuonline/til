@@ -8,19 +8,19 @@
 
 ## Categories
 
-- [Agile](#Agile)
 - [docs](#docs)
+  - [Agile](#Agile)
   - [Git](#Git)
   - [GitHub](#GitHub)
 
 ---
 
-## Agile
-
-- [scrum](https://github.com/masuonline/til/blob/master/Agile/scrum.md)
-
 ## docs
 
+
+### Agile
+
+- [scrum](https://github.com/masuonline/til/blob/master/docs/Agile/scrum.md)
 
 ### Git
 
