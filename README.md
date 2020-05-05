@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-4 TILs and counting...
+5 TILs and counting...
 
 ---
 
@@ -12,6 +12,7 @@
   - [Agile](#Agile)
   - [CircleCI](#CircleCI)
   - [Linux](#Linux)
+  - [Python](#Python)
 
 ---
 
@@ -30,3 +31,7 @@
 ### Linux
 
 - [find-command](https://github.com/masuonline/til/blob/master/docs/Linux/find-command.md)
+
+### Python
+
+- [print-method](https://github.com/masuonline/til/blob/master/docs/Python/print-method.md)
