@@ -31,7 +31,7 @@
 ### CircleCI
 
 - [github-readme-autogeneration](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-readme-autogeneration.md)
-- [github_ssh_authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github_ssh_authorization.md)
+- [github-ssh-authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-ssh-authorization.md)
 
 ### Linux
 
