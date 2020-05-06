@@ -2,13 +2,14 @@
 
 > Today I Learned
 
-5 TILs and counting...
+6 TILs and counting...
 
 ---
 
 ## Categories
 
 - [docs](#docs)
+  - [AWS](#AWS)
   - [Agile](#Agile)
   - [CircleCI](#CircleCI)
   - [Linux](#Linux)
@@ -18,6 +19,10 @@
 
 ## docs
 
+
+### AWS
+
+- [day-1-with-aws](https://github.com/masuonline/til/blob/master/docs/AWS/day-1-with-aws.md)
 
 ### Agile
 
