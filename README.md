@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-6 TILs and counting...
+7 TILs and counting...
 
 ---
 
@@ -39,4 +39,5 @@
 
 ### Python
 
+- [docstring](https://github.com/masuonline/til/blob/master/docs/Python/docstring.md)
 - [print-method](https://github.com/masuonline/til/blob/master/docs/Python/print-method.md)
