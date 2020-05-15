@@ -2,13 +2,14 @@
 
 > Today I Learned
 
-5 TILs and counting...
+6 TILs and counting...
 
 ---
 
 ## Categories
 
 - [docs](#docs)
+  - [AWS](#AWS)
   - [Agile](#Agile)
   - [CircleCI](#CircleCI)
   - [Linux](#Linux)
@@ -19,6 +20,10 @@
 ## docs
 
 
+### AWS
+
+- [day-1-with-aws](https://github.com/masuonline/til/blob/master/docs/AWS/day-1-with-aws.md)
+
 ### Agile
 
 - [scrum](https://github.com/masuonline/til/blob/master/docs/Agile/scrum.md)
@@ -26,7 +31,7 @@
 ### CircleCI
 
 - [github-readme-autogeneration](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-readme-autogeneration.md)
-- [github_ssh_authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github_ssh_authorization.md)
+- [github-ssh-authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-ssh-authorization.md)
 
 ### Linux
 
