@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-7 TILs and counting...
+8 TILs and counting...
 
 ---
 
@@ -14,6 +14,7 @@
   - [CircleCI](#CircleCI)
   - [Linux](#Linux)
   - [Python](#Python)
+  - [vscode](#vscode)
 
 ---
 
@@ -41,3 +42,7 @@
 
 - [docstring](https://github.com/masuonline/til/blob/master/docs/Python/docstring.md)
 - [print-method](https://github.com/masuonline/til/blob/master/docs/Python/print-method.md)
+
+### vscode
+
+- [create-extension-list](https://github.com/masuonline/til/blob/master/docs/vscode/create-extension-list.md)
