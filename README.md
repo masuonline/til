@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-8 TILs and counting...
+9 TILs and counting...
 
 ---
 
@@ -41,6 +41,7 @@
 ### Python
 
 - [docstring](https://github.com/masuonline/til/blob/master/docs/Python/docstring.md)
+- [get-median](https://github.com/masuonline/til/blob/master/docs/Python/get-median.md)
 - [print-method](https://github.com/masuonline/til/blob/master/docs/Python/print-method.md)
 
 ### vscode
