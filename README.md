@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-9 TILs and counting...
+10 TILs and counting...
 
 ---
 
@@ -24,6 +24,7 @@
 ### AWS
 
 - [day-1-with-aws](https://github.com/masuonline/til/blob/master/docs/AWS/day-1-with-aws.md)
+- [well-architected-Framework](https://github.com/masuonline/til/blob/master/docs/AWS/well-architected-Framework.md)
 
 ### Agile
 
