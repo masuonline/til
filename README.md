@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-10 TILs and counting...
+11 TILs and counting...
 
 ---
 
@@ -43,6 +43,7 @@
 
 - [docstring](https://github.com/masuonline/til/blob/master/docs/Python/docstring.md)
 - [get-median](https://github.com/masuonline/til/blob/master/docs/Python/get-median.md)
+- [how-to-use-__name__](https://github.com/masuonline/til/blob/master/docs/Python/how-to-use-__name__.md)
 - [print-method](https://github.com/masuonline/til/blob/master/docs/Python/print-method.md)
 
 ### vscode
