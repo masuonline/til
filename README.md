@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-11 TILs and counting...
+12 TILs and counting...
 
 ---
 
@@ -14,6 +14,7 @@
   - [CircleCI](#CircleCI)
   - [Linux](#Linux)
   - [Python](#Python)
+  - [docker](#docker)
   - [vscode](#vscode)
 
 ---
@@ -45,6 +46,10 @@
 - [get-median](https://github.com/masuonline/til/blob/master/docs/Python/get-median.md)
 - [how-to-use-__name__](https://github.com/masuonline/til/blob/master/docs/Python/how-to-use-__name__.md)
 - [print-method](https://github.com/masuonline/til/blob/master/docs/Python/print-method.md)
+
+### docker
+
+- [delete-image](https://github.com/masuonline/til/blob/master/docs/docker/delete-image.md)
 
 ### vscode
 
