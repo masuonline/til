@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-12 TILs and counting...
+13 TILs and counting...
 
 ---
 
@@ -12,6 +12,7 @@
   - [AWS](#AWS)
   - [Agile](#Agile)
   - [CircleCI](#CircleCI)
+  - [Kubernetes](#Kubernetes)
   - [Linux](#Linux)
   - [Python](#Python)
   - [docker](#docker)
@@ -35,6 +36,10 @@
 
 - [github-readme-autogeneration](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-readme-autogeneration.md)
 - [github-ssh-authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-ssh-authorization.md)
+
+### Kubernetes
+
+- [terminology](https://github.com/masuonline/til/blob/master/docs/Kubernetes/terminology.md)
 
 ### Linux
 
