@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-14 TILs and counting...
+16 TILs and counting...
 
 ---
 
@@ -35,6 +35,8 @@
 
 ### Azure
 
+- [advantages-of-geo-replication-aboutacr](https://github.com/masuonline/til/blob/master/docs/Azure/advantages-of-geo-replication-aboutacr.md)
+- [authenticate-with-an-Azure-container-registry](https://github.com/masuonline/til/blob/master/docs/Azure/authenticate-with-an-Azure-container-registry.md)
 - [container-service](https://github.com/masuonline/til/blob/master/docs/Azure/container-service.md)
 
 ### CircleCI
