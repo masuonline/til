@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-16 TILs and counting...
+17 TILs and counting...
 
 ---
 
@@ -13,6 +13,7 @@
   - [Agile](#Agile)
   - [Azure](#Azure)
   - [CircleCI](#CircleCI)
+  - [GitLab](#GitLab)
   - [Kubernetes](#Kubernetes)
   - [Linux](#Linux)
   - [Python](#Python)
@@ -43,6 +44,10 @@
 
 - [github-readme-autogeneration](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-readme-autogeneration.md)
 - [github-ssh-authorization](https://github.com/masuonline/til/blob/master/docs/CircleCI/github-ssh-authorization.md)
+
+### GitLab
+
+- [develop-workflow](https://github.com/masuonline/til/blob/master/docs/GitLab/develop-workflow.md)
 
 ### Kubernetes
 
